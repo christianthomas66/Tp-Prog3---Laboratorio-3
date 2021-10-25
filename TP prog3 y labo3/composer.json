@@ -1,0 +1,13 @@
+{
+    "name" : "vendor/mdf",
+    "description": "trabajo practico Programacion/Laboratorio III",
+    "authors": [
+        {
+            "name": "Christian Thomás Suárez Grecco",
+            "email": "thomassuarezgrecco98@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf" : "8.*"
+    }
+}

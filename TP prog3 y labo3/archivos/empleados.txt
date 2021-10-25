@@ -1,0 +1,3 @@
+10000000 - Flor - Colodro - F - 120 - 15000 - M - ../fotos/Flor.png
+10000001 - Luquita - Mariani - M - 154 - 85500 - T - ../fotos/Luquita.png
+10000002 - Christian Thomas - Suarez - M - 100 - 50000 - N - ../fotos/thomi.png
